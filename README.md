@@ -4,4 +4,4 @@
 
 ## **Projects List**
 
-### 1. [Information Retrieval System](https://github.com/alim9hamed/FCAI-Projects/tree/e01226a36e16cf2c6e2d20014d7c2e2d83b2766a/Information%20Retrieval%20System)  
+### 1. [QnA PDF App using Retrieval-Augmented Generation (RAG)](https://github.com/alim9hamed/AI-Projects/tree/ea22f70b931027f694b9f6cb478e7d8920afab66/QnA_PDF_APP)  
