@@ -4,4 +4,4 @@
 
 ## **Projects List**
 
-### 1. [QnA PDF App using Retrieval-Augmented Generation (RAG)](https://github.com/alim9hamed/AI-Projects/tree/ea22f70b931027f694b9f6cb478e7d8920afab66/QnA_PDF_APP)  
+### 1. [QnA PDF App using Retrieval-Augmented Generation (RAG)](https://github.com/alim9hamed/AI-Projects/tree/f512bd3a0f5aca559d1a3e236b8656795f05e122/QnA_PDF_APP)  
