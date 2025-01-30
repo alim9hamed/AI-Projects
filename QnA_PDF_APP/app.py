@@ -87,7 +87,7 @@ def get_answer(question, pdf_file):
     # Initialize the RAG app with the uploaded PDF and Groq API key from .env
     rag_app = RAGApp(
         groq_api_key=GROQ_API_KEY,  # Groq API key from environment
-        pdf_file=pdf_file.name  # Path to the uploaded PDF file
+        pdf_file=pdf_file  # Path to the uploaded PDF file
     )
     
     # Get the answer to the question
